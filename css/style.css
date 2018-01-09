@@ -1,0 +1,85 @@
+body{
+    
+}
+#logo{
+    width: 250px;
+    height: 145px;
+    margin: auto;
+}
+
+#login{
+    background: #FFF;
+    width: 450px;
+    height: 300px;
+    margin: 60px auto;
+    border: 1px solid #ccc;
+    
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#login table{
+    font: 15px Arial, Helvetica, sans-serif;
+    color: #667;
+    margin: 40px 10px 10px 10px; 
+}
+
+#login h1{
+    font: 15px Arial, Helvetica, sans-serif;
+    color: #667;
+    margin: 10px 0 0 0; 
+}
+#login input{
+    font: 15px Arial, Helvetica, sans-serif;
+    color: #055;
+    height: 25px;
+    padding: 10px;
+    width: 400px;
+    
+    border: 1px solid #ccc;
+    
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#login .input{
+    font: 15px Arial, Helvetica, sans-serif;
+    color: #FFF;
+    height: 40px;
+    padding: 10px;
+    background: #090;
+    cursor: pointer;
+    width: 80px;
+    margin: 10px 0 0 0;
+    border: 1px solid #ccc;
+    
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#login .input:hover{
+    background: #050;
+}
+
+#login h2{
+    font: 15px Arial, Helvetica, sans-serif;
+    color: #FFF;
+    background: #900;
+    text-align: center;
+    padding: 5px;
+    float: left;
+    margin: 28px 0 10px 10px;
+    border: 1px solid #ccc;
+    
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#imgLogo{
+    width: 250px;
+    height: 145px;
+    margin: auto;
+}
